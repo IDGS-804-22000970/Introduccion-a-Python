@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\tadeo\OneDrive\Escritorio\UTL\IDGS\IDGS804\Desarrollo Web profesional\Repository\Introduccion-a-Python\.env"
+VIRTUAL_ENV="C:\Users\tadeo\OneDrive\Escritorio\UTL\IDGS\IDGS804\DesarrolloWeb\Repository\Introduccion-a-Python\.env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
