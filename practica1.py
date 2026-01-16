@@ -1,6 +1,6 @@
 #Operacion de multiplicacion con sumas
 
-print("Multiplicacion")
+print("Calculadora de Multiplicacion")
 print("")
 
 num1 = int(input("Ingresa el primer numero: "))
